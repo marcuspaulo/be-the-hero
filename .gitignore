@@ -34,3 +34,4 @@ jspm_packages/
 backend/src/database/db.sqlite
 frontend/yarn.lock
 backend/src/database/db.sqlite
+backend/src/database/db.sqlite

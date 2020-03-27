@@ -49,22 +49,22 @@ This project was developed with the following technologies:
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="./docs/images/login.png" width="300px" />
+    <img alt="Login-Page" title="Login-Page" src="./docs/images/login.png" width="800px" />
 </h1>
 
 ## New Incident
 <h1 align="center">
-    <img alt="New Incident-Page" title="New Incident" src="./docs/images/new-incident.png" width="300px" />
+    <img alt="New Incident-Page" title="New Incident" src="./docs/images/new-incident.png" width="800px" />
 </h1>
 
 ## List Incidents (Cases)
 <h1 align="center">
-    <img alt="List Incidents-Page" title="List Incidents" src="./docs/images/profile-cases.png" width="300px" />
+    <img alt="List Incidents-Page" title="List Incidents" src="./docs/images/profile-cases.png" width="800px" />
 </h1>
 
 ## Register new Ong
 <h1 align="center">
-    <img alt="New Ong-Page" title="New Ong" src="./docs/images/register-new-ong.png" width="300px" />
+    <img alt="New Ong-Page" title="New Ong" src="./docs/images/register-new-ong.png" width="800px" />
 </h1>
 
 ## 🔖 Layout
