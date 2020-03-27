@@ -23,7 +23,14 @@ jspm_packages/
 .env
 .env.test
 
+#SQLite
+.sqlite
+*.sqlite
+
 .DS_Store
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+backend/src/database/db.sqlite
+frontend/yarn.lock
+backend/src/database/db.sqlite
