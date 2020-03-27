@@ -27,5 +27,33 @@ $ yarn start
  - Documentação do Routing: https://docs.expo.io/versions/latest/guides/routing-and-navigation/
  - React Navigation: https://reactnavigation.org/
 ```sh
-$ 
+$ npm install @react-navigation/native
+```
+## Utilizando o expo
+```sh
+$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+```
+# Tipo de navegação Stack Navigator
+```sh
+$ npm install @react-navigation/stack
+```
+
+# Instalando o pacote de Constant do Expo-constants
+```sh
+$ expo install expo-constants
+```
+
+# Instalando a dependência para escrever um e-mail
+```sh
+$ expo install expo-mail-composer
+```
+
+# Instalando o cliente http (Axios)
+```sh
+$ npm install axios
+```
+
+# Instalando o pacote Intl (Internacionalização)
+```sh
+$ npm install intl
 ```
